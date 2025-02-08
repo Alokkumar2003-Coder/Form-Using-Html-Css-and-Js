@@ -1,0 +1,45 @@
+body{
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.registration-container{
+    background-color: palevioletred;
+    width: 100%;
+    margin: 0 auto;
+    padding: 20px;
+}
+.login-container{
+    background-color: palevioletred;
+    width: 100%;
+    margin: 0 auto;
+    padding: 20px;
+}
+form{
+    background-color: wheat;
+    margin: auto;
+    border-radius: 2px;
+    height: max-content;
+    margin-top: 1px;
+}
+.container{
+    border-radius: 5px; 
+
+}
+.form-control {
+    width: 50%; 
+    height: 40px; 
+    font-size: 14px;
+    padding: 5px 10px;
+    border-radius: 5px; 
+}
+.btn-success {
+    width: 20%; 
+    background-color: blue !important;
+}
+span a{
+    margin-left: 2px;
+    font-weight: bold;
+}
+span a:hover{
+    text-decoration: solid;
+}
